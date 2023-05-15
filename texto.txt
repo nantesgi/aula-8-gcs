@@ -1,1 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut malesuada sollicitudin nunc sed faucibus.
+Gi está mudando o texto.txt para gerar um conflito Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut malesuada sollicitudin nunc sed faucibus.
